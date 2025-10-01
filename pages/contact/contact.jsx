@@ -36,7 +36,7 @@ const Contact = () => {
             </InfoLink>
           </InfoItem>
           <InfoItem>
-            Phone: <InfoLink href="tel:+917006038395">+91 70060 38395</InfoLink>
+            Phone: <InfoLink href="tel:+9170087884">+91 70060 87884</InfoLink>
           </InfoItem>
           <InfoItem>Address: Srinagar, Valley of Kashmir, 190001</InfoItem>
         </ContactInfo>
