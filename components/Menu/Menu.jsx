@@ -145,7 +145,7 @@ const Menu = () => {
                 onMouseEnter={addCursorBorder}
                 onMouseLeave={removeCursorBorder}
               >
-                +91 70060 38395
+                +91 70060 87884
               </FooterText>
               <FooterText className="copyright">© DataHarvestLabs</FooterText>
               {isMobile && (
