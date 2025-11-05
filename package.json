@@ -20,6 +20,7 @@
   "dependencies": {
     "framer-motion": "^2.9.4",
     "next": "10.0.1",
+    "rc-footer": "^0.6.8",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-intersection-observer": "^8.30.3",
