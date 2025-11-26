@@ -5,13 +5,13 @@ export default [
     path: '/projects/not-humble',
   },
   {
-    id: 'temp1',
-    title: 'temp1',
+    id: 'testimonies',
+    title: 'Hear what our clients say',
     path: '/projects/bleeping-easy',
   },
   {
-    id: 'temp2',
-    title: 'temp2',
+    id: 'get-quoted',
+    title: 'get quotation on',
     path: '/projects/make-it-zero',
   },
   {
